@@ -1,2 +1,2 @@
 this is my new feature!!
-bla bla bla
+feature1
