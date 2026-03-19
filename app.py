@@ -13,3 +13,6 @@ greeting(name, age)
 
 def new_feature():
     print("This is a new feature!")
+
+def another_feature():
+    print("This is another feature!")
