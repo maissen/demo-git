@@ -10,3 +10,6 @@ def greeting(name: str, age: int):
 greeting(name, age)
 #this is a comment
 #hello
+
+def new_feature():
+    print("This is a new feature!")
