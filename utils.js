@@ -1,7 +1,3 @@
-function greet(name) {
-  return "Hello " + name;
-}
+const greet = (name) => `Hello ${name}`;
 
-function farewell(name) {
-  return "Bye " + name;
-}
+const farewell = (name) => `Bye ${name}`;
