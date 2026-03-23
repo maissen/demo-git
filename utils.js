@@ -3,4 +3,4 @@ const greet = (name = "stranger") => {
   return `Hello ${name}`;
 }
 
-const farewell = (name) => `Bye ${name}`;
+const farewell = (name) => `See you soon, ${name}!`;
